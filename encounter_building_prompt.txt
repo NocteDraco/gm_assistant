@@ -3,6 +3,7 @@ Creature Table 10.3
 {creatures_csv_table}
 Thematic Elements
 {thematic_elements}
+
 Create three encounters of varying difficulty. For each encounter you must provide the following:
 
 - A one sentence summary of the encounter.
@@ -32,27 +33,3 @@ Guidelines for paragraph description of the encounter:
 - Create thematically diverse encounters
 - Use concise descriptions.
 - Allow for roleplay, exploration, or combat.
-
-
-
-Create three encounters of varying difficulty. For each encounter you must provide the following:
-
-- A one sentence summary of the encounter.
-- A CSV of the creatures in the encounters selected from Creature Table 10.3. 
-- Total experience of all creatures in the encounter.
-- Closest threat level of the encounter using Table 10.1.
-- A paragraph description of the encounter. 
-
-Guidelines for encounter building:
-- Most encounters should have 2 - 4 creatures
-
-Formula for the CSV of creatures:
-
-- Each row should have the creature name, number of that creature in this encounter, their relative level, total experience of these creatures. 
-- Use one row for each creature type in the encounter.
-
-Guidelines for paragraph description of the encounter:
-
-- Include any player-driven decisions that could be made.
-- Create thematically diverse situations and concise descriptions.
-- Not all encounters need to be resolved with combat.
