@@ -1,0 +1,39 @@
+Building Encounters
+
+The most common type of encounter is a combat encounter, where the PCs face other creatures. Combat encounters are strictly governed by rules; the guidelines that follow will help you build combat encounters that pose appropriate challenges for your group. Building hazard encounters works the same way. Social encounters are more free form, and are up to you as the GM to design.
+
+To build a combat encounter, first decide how the encounter fits in the adventure as a whole. Then, estimate how much of a threat you want the encounter to pose, using one of five categories below.
+
+- Trivial
+- Low
+- Moderate
+- Severe
+- Extreme
+
+Once you’ve selected a threat level, it’s time to build the encounter. You have an XP budget based on the threat, and each creature costs some of that budget. Start with the monsters or NPCs that are most important to the encounter, then decide how you want to use the rest of your XP budget. Many encounters won’t match the XP budget exactly, but they should come close. 
+
+Table 10.1: Encounter Budget
+Threat | XP Budget
+Trivial | {trivial}
+Low | {low}
+Moderate | {moderate}
+Severe | {severe}
+Extreme | {extreme}
+
+In all but the most unusual circumstances, you’ll select creatures for your encounter that range from 4 levels lower than the PCs’ level to 4 levels higher (see Table 10–2: Creature XP and Role). Each creature has a part to play in your encounter, from a lowly lackey to a boss so mighty it could defeat the entire party single handedly.
+
+Each creature costs some of the XP from your XP budget for the encounter, based on its level compared to the levels of the characters in your party. For instance, if the PCs are 5th level, a 2nd level creature is a "party level – 3" creature, a lackey appropriate for a low  to moderate threat encounter, and it costs 15 XP in an encounter’s XP budget.
+
+Table 10.2: Creature XP and Role
+
+Relative Creature Level | XP | Suggested Role
+-4 | 10 | Low threat lackey
+-3 | 15 | Low  or moderate threat lackey
+-2 | 20 | Any lackey or standard creature
+-1 | 30 | Any standard creature
+0 | 40  | Any standard creature or low threat boss
+1 | 60	| Low  or moderate threat boss
+2 | 80	| Moderate  or severe threat boss
+3 | 120 | Severe  or extreme threat boss
+4 | 160 | Extreme threat solo boss
+

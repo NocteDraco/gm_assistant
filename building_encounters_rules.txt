@@ -1,0 +1,25 @@
+Building Encounters
+
+Table 10.1: Encounter Budget
+Threat | XP Budget
+Trivial | {trivial}
+Low | {low}
+Moderate | {moderate}
+Severe | {severe}
+Extreme | {extreme}
+
+Each creature costs some of the XP from your XP budget for the encounter, based on its level compared to the levels of the characters in your party. For instance, if the PCs are 5th level, a 2nd level creature is a "party level – 3" creature, a lackey appropriate for a low  to moderate threat encounter, and it costs 15 XP in an encounter’s XP budget.
+
+Table 10.2: Creature XP and Role
+
+Relative Creature Level | XP | Suggested Role
+-4 | 10 | Low threat lackey
+-3 | 15 | Low  or moderate threat lackey
+-2 | 20 | Any lackey or standard creature
+-1 | 30 | Any standard creature
+0 | 40  | Any standard creature or low threat boss
+1 | 60	| Low  or moderate threat boss
+2 | 80	| Moderate  or severe threat boss
+3 | 120 | Severe  or extreme threat boss
+4 | 160 | Extreme threat solo boss
+

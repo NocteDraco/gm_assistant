@@ -1,0 +1,58 @@
+{encounter_rules}
+Creature Table 10.3
+{creatures_csv_table}
+Thematic Elements
+{thematic_elements}
+Create three encounters of varying difficulty. For each encounter you must provide the following:
+
+- A one sentence summary of the encounter.
+- Chosen threat level for the encounter picked from Table 10.1: Encounter Budget
+- XP budget for threat level
+- CSV rows of the creatures in the encounters selected from Creature Table 10.3. 
+- Total experience of all creatures in the encounter.
+- Difference from threat level budget
+- A paragraph description of the encounter. 
+
+Guidelines for encounter building:
+- Most encounters should have 1-8 creatures
+- Use one CSV row for each creature type in the encounter.
+- Use different creatures for more diverse encounters
+
+Each row of the CSV should include:
+
+- The creature name
+- number of this creature in the encounter
+- their relative level
+- creature xp using Table 10.2: Creature XP and Role
+- creature role using Table 10.2: Creature XP and Role
+
+Guidelines for paragraph description of the encounter:
+
+- Include any player-driven decisions that could be made.
+- Create thematically diverse encounters
+- Use concise descriptions.
+- Allow for roleplay, exploration, or combat.
+
+
+
+Create three encounters of varying difficulty. For each encounter you must provide the following:
+
+- A one sentence summary of the encounter.
+- A CSV of the creatures in the encounters selected from Creature Table 10.3. 
+- Total experience of all creatures in the encounter.
+- Closest threat level of the encounter using Table 10.1.
+- A paragraph description of the encounter. 
+
+Guidelines for encounter building:
+- Most encounters should have 2 - 4 creatures
+
+Formula for the CSV of creatures:
+
+- Each row should have the creature name, number of that creature in this encounter, their relative level, total experience of these creatures. 
+- Use one row for each creature type in the encounter.
+
+Guidelines for paragraph description of the encounter:
+
+- Include any player-driven decisions that could be made.
+- Create thematically diverse situations and concise descriptions.
+- Not all encounters need to be resolved with combat.
